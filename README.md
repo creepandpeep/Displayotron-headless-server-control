@@ -10,10 +10,11 @@ It works, but is very much a work in progress.  I knew nothing about Python befo
 I have a Raspberry Pi 3 which I use as a webserver.  The displayotron is an excellent way to control/monitor a Raspberry Pi without connecting a monitor/keyboard or using SSH.  I started playing with the menu.py in Pimoronis examples and decided to try and add further functionality like the ability to start/stop services etc - This is still in the early stages, but the foundation is now there.  The end goal is to have a webserver that I rarely have to log into to maintain or administer - to be able to start and stop services (such as webcam streaming, audio streaming etc) and launch other tasks (like ad-hoc backups to dev web server etc) at the push of a button on the displayotron HAT...whilst also having a fancy colour changing clock lighting up my living room :) .  
 
 #### Currently working
-(Largely the same as from the example scritps included with the displayotron & transilluminates script)
+(Largely the same as from the example scripts included with the displayotron & transilluminates script)
 * System stats monitoring - CPU, RAM, HDD Space, Temperature, Network Speed/Transfer Rate, IP Address etc
 * Clock
 * Power options - reboot/shutdown Pi
+
 (Changed or added)
 * Menu option to start systemd service - (in my case, a Pi Cam streaming service that loads in an iframe on a wordpress site)
 * Backlight off menu option - but keeps text visible
