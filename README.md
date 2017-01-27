@@ -3,7 +3,7 @@ Using Pimoronis [Displayotron HAT](https://shop.pimoroni.com/products/display-o-
 
 #### Bodged together using code from [Pimoronis displayotron repo](../../../../pimoroni/dot3k) and [transilluminates display.py] (https://gist.github.com/transilluminate/bbc1eca2739badaadf58)
 
-It works, but is very much a work in progress.  I knew nothing about Python before I got the displayotron and only did a couple of hours online course, so I'm very aware the code is an abomination - but it does work.  Very much a linux amatuer as well.  I realise this won't be much use to anyone else, but it's to make keep track of changes easier for myself.
+It works, but is very much a work in progress.  I knew nothing about Python before I got the displayotron and only did a couple of hours online course, so I'm very aware the code is an abomination - but it does work.  Very much a linux amatuer as well.  I realise this won't be much use to anyone else, but it's to make keeping track of changes easier for myself.
 
 #### The aim
 
