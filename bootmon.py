@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
 ######################################################################################
-# V4 - 25/01/2017 18.57
+# V4 - 27/01/2017 20.30
 # Lots of code pulled from pimoroni examples 
 # psutils code pulled from:
 # https://gist.github.com/transilluminate/bbc1eca2739badaadf58 git hub user: transilluminate
 # Change percent_used_usb variable to your drive location or will crash
+# Wifi code block and menu option commented out
 ######################################################################################
 
 import sys
