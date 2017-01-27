@@ -25,6 +25,8 @@ I have a Raspberry Pi 3 which I use as a webserver.  The displayotron is an exce
 * Will tidy up and parameterise the code
 * Will document the Pi Cam streaming service set up for anyone who is interested
 * Rsync options
+* Menu option to take still image from Pi Cam and save directly to web folder
+* Menu option to start/stop video/audio record and then option to upload directly to web folder
 
 As stated, most of this code is pulled together from either Pimoronis example scripts from their displayotron repo or transilluminates script - I believe I've creditted everyone as neccesary, but please let me know if otherwise.
 
