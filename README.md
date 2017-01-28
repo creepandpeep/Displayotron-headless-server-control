@@ -22,11 +22,12 @@ I have a Raspberry Pi 3 which I use as a webserver.  The displayotron is an exce
 * Cycle RGB backlights menu option - as in the demo example, but persistent throughout all the status screens and clock etc
 
 #### Soon
-* Will tidy up and parameterise the code
+* Splitting menu option code blocks back into plugins for readability and ease of updates
+* Will tidy up and parameterise the code, eg service names as variables so easy to personalise for people who aren't programmers..like me...
 * Will document the Pi Cam streaming service set up for anyone who is interested
-* Rsync options
-* Menu option to take still image from Pi Cam and save directly to web folder
-* Menu option to start/stop video/audio record and then option to upload directly to web folder
+* Rsync plugin
+* Plugin to take still image from Pi Cam and save directly to web folder
+* Plugins to start/stop video/audio record and then option to upload directly to web folder
 
 As stated, most of this code is pulled together from either Pimoronis example scripts from their displayotron repo or transilluminates script - I believe I've creditted everyone as neccesary, but please let me know if otherwise.
 
