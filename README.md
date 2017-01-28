@@ -25,6 +25,7 @@ I have a Raspberry Pi 3 which I use as a webserver.  The displayotron is an exce
 * Splitting menu option code blocks back into plugins for readability and ease of updates
 * Will tidy up and parameterise the code, eg service names as variables so easy to personalise for people who aren't programmers..like me...
 * Will document the Pi Cam streaming service set up for anyone who is interested
+* Visual indicators using backlight/graph lights eg for service state (webcam actively streaming etc)
 * Rsync plugin
 * Plugin to take still image from Pi Cam and save directly to web folder
 * Plugins to start/stop video/audio record and then option to upload directly to web folder
